@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Voice Order</string>
+    <string name="Search" translatable="false">Search Stores</string>
+</resources>
